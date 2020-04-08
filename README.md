@@ -12,7 +12,7 @@ Collaborate, Fork -> add your update -> send a merge request.
 ## Courses
 
  - [Pluralsight](https://www.pluralsight.com/offer/2020/free-april-month) - Free for April 2020.
- - [Coursera[(https://blog.coursera.org/coursera-together-free-online-learning-during-covid-19/) Coursera Together: Free online learning during COVID-19
+ - [Coursera](https://blog.coursera.org/coursera-together-free-online-learning-during-covid-19/) Coursera Together: Free online learning during COVID-19
  
  ## Credits
  
